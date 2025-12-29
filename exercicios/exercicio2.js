@@ -14,7 +14,7 @@ while (continuar) {
     while (true) {
         numero = Number(prompt("Digite um número inteiro positivo"));
 
-        if (Number.isInteger(numero) && numero > 0) {
+        if (Number.isInteger(numero) && numero >= 0) {
             break;
         } else {
             console.log("Entrada inválida. Por favor, digite um número inteiro positivo.");

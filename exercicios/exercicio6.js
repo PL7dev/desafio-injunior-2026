@@ -11,7 +11,7 @@ if (!Number.isInteger(quantidade) || quantidade <= 0) {
     console.log("Digite um número inteiro positivo válido");
 } else {
     const termos = [];
-    
+
     for (let i = 0; i < quantidade; i++) {
         termos.push(fibonacci(i));
     }

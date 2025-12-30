@@ -15,17 +15,29 @@ O projeto contém implementações dos exercícios propostos, com foco em lógic
 ## Estrutura
 
 exercicios/
+
 ├── exercicio1.js # Equação do 2º grau
+
 ├── exercicio2.js # Fatorial
+
 ├── exercicio3.js # Verificação de idades
+
 ├── exercicio4.js # Conversão de moedas
+
 ├── exercicio5.js # FizzBuzz
+
 ├── exercicio6.js # Fibonacci (recursivo)
+
 ├── exercicio7.js # Palíndromo
+
 ├── exercicio8e9.js # Livros por categoria e autores
+
 ├── exercicio10.js # Fila de atendimento
+
 ├── exercicio11.js # Ordem crescente
+
 ├── exercicio12.js # Elemento único
+
 └── exercicio13.js # Gerenciamento de jogadores
 
 ---
